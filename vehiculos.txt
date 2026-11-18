@@ -1,11 +1,7 @@
 Mustang
 suzuki
 opel
-<<<<<<< HEAD:coches.txt
-Seat Ibiza 2022
-=======
 Seat Ibiza 2020
->>>>>>> feature-rename-coches:vehiculos.txt
 Renault Clio
 Ford Fiesta
 Toyota Corolla
@@ -15,9 +11,5 @@ Peugeot 208
 Kia Rio
 Hyundai i20
 Opel Corsa
-<<<<<<< HEAD:coches.txt
-mazda 3
-citroen c3
-=======
 skoda fabia
->>>>>>> feature-rename-coches:vehiculos.txt
+adad
